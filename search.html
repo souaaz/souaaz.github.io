@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>souaaz</title>
+    <title>Search - souaaz
+</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -166,7 +167,7 @@ init_mathjax();
 </script>
     <link href="souaaz.github.io/extra" rel="icon">
 
-<link rel="canonical" href="souaaz.github.io">
+
         <meta name="author" content="Samira Ouaaz" />
 
 
@@ -241,7 +242,7 @@ souaaz            </a>
 <div class="container-fluid">
     <div class="row">
         <div class="col-sm-9">
-
+<div id="tipue_search_content"></div>
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
@@ -319,5 +320,17 @@ souaaz            </a>
     </script>
     <!-- End Disqus Code -->
 
+    <script type="text/javascript" src="souaaz.github.io/theme/tipuesearch/tipuesearch_set.js"></script>
+    <script type="text/javascript" src="souaaz.github.io/theme/tipuesearch/tipuesearch.min.js"></script>
+    <script>
+    $(document).ready(function() {
+      $('#tipue_search_input').tipuesearch({
+        'mode' : 'json',
+        'show': 10,
+        'newWindow': false,
+        'contentLocation': 'tipuesearch_content.json'
+      });
+    });
+    </script>
 </body>
 </html>
