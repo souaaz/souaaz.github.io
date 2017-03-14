@@ -4,56 +4,56 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>souaaz.github.io/</loc>
-<lastmod>2017-03-14T02:19:24-00:00</lastmod>
+<loc>souaaz/</loc>
+<lastmod>2017-03-14T02:24:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>souaaz.github.io/archives.html</loc>
-<lastmod>2017-03-14T02:19:24-00:00</lastmod>
+<loc>souaaz/archives.html</loc>
+<lastmod>2017-03-14T02:24:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>souaaz.github.io/categories.html</loc>
-<lastmod>2017-03-14T02:19:24-00:00</lastmod>
+<loc>souaaz/categories.html</loc>
+<lastmod>2017-03-14T02:24:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>souaaz.github.io/about</loc>
+<loc>souaaz/about</loc>
 <lastmod>2017-02-19T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>souaaz.github.io/tools/Install Pelican on GitHub.html</loc>
+<loc>souaaz/tools/Install Pelican on GitHub.html</loc>
 <lastmod>2017-03-13T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>souaaz.github.io/category/tools.html</loc>
+<loc>souaaz/category/tools.html</loc>
 <lastmod>2017-03-13T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>souaaz.github.io/tag/pelican.html</loc>
+<loc>souaaz/tag/pelican.html</loc>
 <lastmod>2017-03-13T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>souaaz.github.io/tag/github.html</loc>
+<loc>souaaz/tag/github.html</loc>
 <lastmod>2017-03-13T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
