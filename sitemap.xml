@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>souaaz/</loc>
-<lastmod>2017-03-14T02:26:13-00:00</lastmod>
+<lastmod>2017-03-14T02:45:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>souaaz/archives.html</loc>
-<lastmod>2017-03-14T02:26:13-00:00</lastmod>
+<lastmod>2017-03-14T02:45:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>souaaz/categories.html</loc>
-<lastmod>2017-03-14T02:26:13-00:00</lastmod>
+<lastmod>2017-03-14T02:45:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,14 +32,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>souaaz/tools/Install Pelican on GitHub.html</loc>
+<loc>souaaz/blog/Django Resources.html</loc>
 <lastmod>2017-03-13T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>souaaz/category/tools.html</loc>
+<loc>souaaz/blog/Install Pelican on GitHub.html</loc>
+<lastmod>2017-03-13T00:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>souaaz/category/blog.html</loc>
+<lastmod>2017-03-13T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>souaaz/tag/python.html</loc>
+<lastmod>2017-03-13T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>souaaz/tag/framework.html</loc>
+<lastmod>2017-03-13T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>souaaz/tag/github.html</loc>
 <lastmod>2017-03-13T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -53,7 +81,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>souaaz/tag/github.html</loc>
+<loc>souaaz/tag/django.html</loc>
 <lastmod>2017-03-13T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
